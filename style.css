@@ -1,0 +1,187 @@
+.navbar-nav li {
+    list-style: none;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 1px;
+
+}
+.navbar-nav{
+    float: right;
+    display: flex;
+}
+
+button {
+    color: azure;
+    background-color: #5CB85F;
+    bottom: 1px;
+    border: 3px solid #5CB85F;
+    text-decoration: none;
+}
+.tulisan{
+    padding-left: 100px;
+}
+.tulisan1{
+    max-width: 500px;
+    font-family: Helvetica;
+}
+.tulisan2{
+    max-width: 460px;
+    font-family: Helvetica;
+}
+
+.centang {
+    list-style: none;
+    padding-left: 1px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.centang li {
+    padding-left: 1px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.cewek {
+    padding: 60px;
+    font-family: Helvetica;
+}
+
+.mt-50{
+    margin-top: 50px;
+    
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.mb-30{
+    margin-bottom: 30px;
+}
+
+.whyus{
+    margin-top: 100px;
+}
+
+.mrml-20{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mrml-20{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.whyus p{
+    max-width: 263px;
+}
+
+.mt-20{
+    margin-top: 20px;
+}
+
+.br{
+    border-radius: 6%;
+}
+.card{
+    border: 1px solid rgb(202, 202, 202);
+}
+
+/* tetimonial */
+.Testimonial-component{
+    text-align: center;
+}
+.mt-50{
+    margin-top: 50px;
+}
+
+.fonttesti {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Helvetica;
+    font-style: normal;
+}
+.item {
+    height: 270px;
+    background: #F1F3FF;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+
+.bwhite{
+    border: 1px white solid;
+}
+
+.btn-sewa{
+    color: #fff;
+    background-color: #5CB85F;
+}
+.mt-20p{
+    margin-top: 8%;
+}
+
+.wi-22{
+    width: 22%  !important; 
+}
+
+.owl-carousel .owl-item img {
+    display: block;
+    
+} 
+
+.foto{
+    width: 40% !important;
+    margin: auto;
+    margin-top: 13%;
+}
+/* testimonial end */
+
+/* Banner */
+.blue{
+    background: #0D28A6;
+    font-family: Helvetica;
+}
+.warna{
+    background-color: aqua !important;
+}
+.bold{
+    font-weight: bold;
+    
+}
+.sewa .col-md-12{
+    height: 326px;
+    border-radius: 10px;
+}
+.swa {
+    padding-left: 1px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    margin: auto;
+    margin-top: 4%;
+}
+/* banner end */
+
+/* Frequently Asked Question */
+.mb-20{
+    margin-bottom: 20px;
+}
+.mlmr-70{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+/* end Frequently Asked Question */
+
+.huhu {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Helvetica;
+}
